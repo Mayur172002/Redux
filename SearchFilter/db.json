@@ -1,0 +1,40 @@
+{
+    "user": [
+        {}
+    ],
+    "Fruit": [
+        {
+            "id": "1",
+            "fruit": "Apple"
+        },
+        {
+            "id": "2",
+            "fruit": "Banana"
+        },
+        {
+            "id": "3",
+            "fruit": "Orange"
+        },
+        {
+            "id": "4",
+            "fruit": "Mango"
+        },
+        {
+            "id": "5",
+            "fruit": "Pineapple"
+        },
+        {
+            "id": "6",
+            "fruit": "Watermelon"
+        },
+        {
+            "id": "7",
+            "fruit": "Strawberry"
+        },
+        {
+            "id": "8",
+            "fruit": "Blueberry"
+        }
+    ]
+   
+}
