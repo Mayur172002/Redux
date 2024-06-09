@@ -1,0 +1,272 @@
+{
+  "Users": [
+    {
+      "id": "1716890695289",
+      "name": "Mayur ",
+      "number": "12345678954",
+      "password": "1234",
+      "image": "http://localhost:3001/Admin/img/profile-img.jpg",
+      "email": "Mayur10@gmail.com",
+      "status": "Unblock"
+    },
+    {
+      "id": "1717916497319",
+      "name": "Mayur",
+      "number": "246848426",
+      "password": "2020",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAPFBMVEXk5ueutLepsLPo6uursbXJzc/p6+zj5ea2u76orrKvtbi0ubzZ3N3O0dPAxcfg4uPMz9HU19i8wcPDx8qKXtGiAAAFTElEQVR4nO2d3XqzIAyAhUD916L3f6+f1m7tVvtNINFg8x5tZ32fQAIoMcsEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQTghAJD1jWtnXJPP/54IgNzZQulSmxvTH6oYXX4WS+ivhTbqBa1r26cvCdCu6i0YXbdZ0o4A1rzV+5IcE3YE+z58T45lqo7g1Aa/JY5tgoqQF3qb382x7lNzBLcxft+O17QUYfQI4IIeklKsPSN4i6LKj/7Zm8n99RbHJpEw9gEBXNBpKIYLJqKYRwjOikf//r+J8ZsVuacbqCMNleI9TqGLGqMzhnVdBOdd6F/RlrFijiCoVMk320CBIahUxTWI0KKEcJqKbMdpdJb5QvdHq6wCI5qhKlgGMS/RBHkubWDAE+QZxB4xhCyDiDkLZxgGEVdQldzSKbTIhmZkFkSEPcVvmBn2SMuZB9od7fQDsMiDdKJjFUSCQarM5WirZ3C2TT/htYnyPcPfgrFHWz0BI74gr6J/IZiGUxAZGQLqmvQLTrtE/Go4YxhVRIpEw+sww1IIcqr5NKmUUzLF3d4/qPkYIp2T/obPuemlojFUR4t9Q2Vojhb7BmgElWHzLPH8hucfpefPNFTVgs9h1AdU/Pin96vwWbWdf+X9Absn3OdO34aMdsDnP8WgKYisTqI6CkNGqZQo1XA6Ef6AU32SJzOcBukHPF07/xNSgmHKa5BOhtezv6mA/rYJpwXNAnbRZ1XuF3BzDcO3vpA3+ny2909gbqE4hhD3LIPhLLyBNhPZvbZ3B+3tPYa18A7auSlXQayKwTPNLKDcuOB0xPYKDPFTkWsevQPRZ1J8Hji9I1KQ34r7hZhrwNwOZ97QxNx0drwn4QI0wQk1DcEsfKCWKdxVvxPSNUIp/knmAXT+nT+Ko3+0H96rcNb3m1fx7MBTJdeBJ7uFcWsc0wvgAsC4pROW0l2inbAmIBv/7GZmuhQH6API2rr8T0e6yuZJ+80A9LZeG62T3tik31XwxtwZcizKuTHkMjB1WdZde4Kmic/A5ZI3rr1ae21d08PlVHYfAaxw9G9CYRbJ+8ZdbTcMRV1XM3VdF0M32vtoTdZ0+u29s0OttJ5bz64UwinjaFMVY9vkqc3KKSxN21Xl+0L4Q3Vuv1tYl0pqnX6ms4XetFz7gdZVAgUEoJntfOUe4ZwsHd9FzqQ3Vv6xe41l0XJcqcKl6TZvlv7ClAW3BsqQW4X7ypApB8dmTgK4IX5wvqIVj33HtD2qSG4BqznxdIefL27Y4sahi0MdIdvUsDva8agGGbCtITmCY31MHD2O0uIdh/0rJDQ1VX5Zdxz3rR2QDbv6qXl9vudzqQtGm1Jv9LDXOsfvvB7VcZ8PDKD0mQ1VHPYQ9O+Yj4hR1IUD8rBnn3ho2m8oQMxbCFiKlL2ioSW5heeJqegED52CzxCtcGD3Kv8Wms9EYLyUhwaFIhSMBClevWEmiK/Iaogu4H7sg6ppQhQG8RUqivuTGOAJOg6FfgW0q0M0PQMRMEgXaeNf3SYDZ8PIMI0+wHgr/MgN7wYwpiLjCCqM6ydUDZLQiB6nDdNC8SDyig3jPPpFXGcC9O8BUBDVmgBY59E7Md/35Loe/UVEECEJwYggJjELZ4J71SaQSBeC02n4Da29CayJNA28SAhd2CQyC1Xw6pSmGSINQVuMhAZp4DClan9MgmkDDNmezqwS8sgtlXK/EPBhoaSmYVC/F7IO1jQEdHOlabpKh3+jzLQSTUiq4X2I+Ip/zU8rlaqAvkS21ElR+gqu3zbjjL+hIAiCIAiCIAiCIAiCsCf/AKrfVhSbvA+DAAAAAElFTkSuQmCC",
+      "email": "mayur0@gmail.com",
+      "status": "Unblock"
+    }
+  ],
+  "Categories": [
+    {
+      "id": "1716725744572",
+      "name": "Men",
+      "image": "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-MHP-26052024-mainbanner-z1-p2-Woxen-Yovish-Flat65.jpg"
+    },
+    {
+      "id": "1716725827640",
+      "name": "Female",
+      "image": "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-WHP-260524-TOPBANNER-BU-Z2-P5-KIANA-BERRYLICIOUS-MIN65.jpg"
+    },
+    {
+      "id": "1716725859343",
+      "name": "Kids",
+      "image": "https://assets.ajio.com/cms/AJIO/WEB/D-1.0-KHP-16052024-mainbanner-z1-p1-iconicsale-4080.jpg"
+    }
+  ],
+  "Product": [
+    {
+      "id": "1716726670830",
+      "cate_id": "1716725744572",
+      "name": "Men Slim Fit Shirt with Flap Pockets",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240229/qLAb/65df862405ac7d77bb875f3b/-473Wx593H-469595680-gray-MODEL6.jpg",
+      "price": "2047",
+      "discount": "36"
+    },
+    {
+      "id": "1716727882317",
+      "cate_id": "1716725744572",
+      "name": "Men Graphic Print Regular Fit Crew-Neck T-Shirt 4.3  4 Ratings",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240307/1k4N/65e9b09a05ac7d77bb9df5cb/-473Wx593H-469596045-brown-MODEL2.jpg",
+      "price": "1259",
+      "discount": "37"
+    },
+    {
+      "id": "1717823974509",
+      "cate_id": "1716725744572",
+      "name": "Men Oxford Regular Fit Shirt with Patch Pocket",
+      "image": "https://assets.ajio.com/medias/sys_master/root/ha6/h56/14499029942302/-473Wx593H-441015307-aqua-MODEL.jpg",
+      "price": "360",
+      "discount": "60"
+    },
+    {
+      "id": "1717824041466",
+      "cate_id": "1716725744572",
+      "name": "Shirt with Patch Pocket",
+      "image": "https://assets.ajio.com/medias/sys_master/root/h91/ha1/15812049076254/-473Wx593H-441015307-purple-MODEL.jpg",
+      "price": "360",
+      "discount": "60"
+    },
+    {
+      "id": "1717848209802",
+      "cate_id": "1716725744572",
+      "name": "Regular Fit Hoodie with Kangaroo Pockets",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240307/cFjF/65e9a55c05ac7d77bb9dc01d/-473Wx593H-469473329-blue-MODEL.jpg",
+      "price": "612",
+      "discount": "66"
+    },
+    {
+      "id": "1717848260242",
+      "cate_id": "1716725744572",
+      "name": "Clean Optic Knit Denim Pants with Knee Dart",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231026/bf5K/653a4eccddf77915195b5576/-473Wx593H-469484046-green-MODEL.jpg",
+      "price": "986",
+      "discount": "66"
+    },
+    {
+      "id": "1717848307846",
+      "cate_id": "1716725744572",
+      "name": "Double Pocket Twill Overshirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240311/z2Qj/65eef78a05ac7d77bba89ec1/-473Wx593H-469218318-olive-MODEL.jpg",
+      "price": "782",
+      "discount": "66"
+    },
+    {
+      "id": "1717848339262",
+      "cate_id": "1716725744572",
+      "name": "Oversized Hoodie with Drop-Shoulder Sleeves",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230922/dL28/650da8b4ddf7791519f5197f/-473Wx593H-469473335-brown-MODEL.jpg",
+      "price": "612",
+      "discount": "66"
+    },
+    {
+      "id": "1717848409426",
+      "cate_id": "1716725744572",
+      "name": "Regular Fit Waffle Structured Crew-Neck T-Shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230810/THUP/64d4fe5ea9b42d15c9a1c036/-473Wx593H-469477310-black-MODEL4.jpg",
+      "price": "442",
+      "discount": "66"
+    },
+    {
+      "id": "1717848540119",
+      "cate_id": "1716725744572",
+      "name": "Joggers with Knee Dart & Oversized Patch Pocket",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231031/0oZ3/65411b48afa4cf41f56b64b7/-473Wx593H-469484052-black-MODEL.jpg",
+      "price": "918",
+      "discount": "66"
+    },
+    {
+      "id": "1717848679917",
+      "cate_id": "1716725744572",
+      "name": "Men Straight Fit Jeans with Patch Pasting & Tearing",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20231026/cIZp/653a517dddf77915195b6435/-473Wx593H-469465637-charcoal-MODEL.jpg",
+      "price": "850",
+      "discount": "66"
+    },
+    {
+      "id": "1717848790979",
+      "cate_id": "1716725744572",
+      "name": "Men Slim Fit Shirt with Flap Pockets",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230328/UIlU/6422d926907deb497ab6dc08/-473Wx593H-469290311-mustard-MODEL.jpg",
+      "price": "510",
+      "discount": "66"
+    },
+    {
+      "id": "1717863765980",
+      "cate_id": "1716725827640",
+      "name": "Zari Woven Flared Kurta",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230802/9Ka8/64ca4c71eebac147fca01b2d/-473Wx593H-443021373-rosegold-MODEL.jpg",
+      "price": "841",
+      "discount": "49",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717863811885",
+      "cate_id": "1716725827640",
+      "name": "Floral Print Round-Neck A-Line Dress",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230124/eezM/63cfb3c0f997dd708e1e77a1/-473Wx593H-443008058-blue-MODEL.jpg",
+      "price": "587",
+      "discount": "75",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717863847570",
+      "cate_id": "1716725827640",
+      "name": "Embroidered A-Line Layered Kurta Suit Set",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230323/e8X5/641c77a6907deb497aad6e94/-473Wx593H-441148957-coral-MODEL.jpg",
+      "price": "737",
+      "discount": "75",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717863889690",
+      "cate_id": "1716725827640",
+      "name": "Block Print A-Line Kurta with Pant",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20221109/S996/636bd08df997ddfdbd67abe6/-473Wx593H-441145746-peach-MODEL.jpg",
+      "price": "687",
+      "discount": "75",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717863938126",
+      "cate_id": "1716725827640",
+      "name": "Dupatta with Fringes",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230605/rSlm/647dfe9642f9e729d723c2c8/-473Wx593H-443016910-beige-MODEL.jpg",
+      "price": "299",
+      "discount": "10",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717863981427",
+      "cate_id": "1716725827640",
+      "name": "Printed Fit & Flare Dress 4.1  237 Ratings",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230605/DF2u/647e015f42f9e729d723d0e4/-473Wx593H-443013886-blue-MODEL2.jpg",
+      "price": "737",
+      "discount": "75",
+      "brand": "AVAASA SET"
+    },
+    {
+      "id": "1717864784316",
+      "cate_id": "1716725744572",
+      "name": "Smashic Unisex Sneakers",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240514/dPb8/6643453c05ac7d77bb59602e/-473Wx593H-465654605-white-MODEL5.jpg",
+      "price": "1665",
+      "discount": "63",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717864832834",
+      "cate_id": "1716725744572",
+      "name": "Men Panelled Baseball Cap with Embroidered Logo",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210202/00HM/60197cf5f997dd5c40e51d0d/-473Wx593H-460571497-black-MODEL2.jpg",
+      "price": "317",
+      "discount": "47",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717864897867",
+      "cate_id": "1716725744572",
+      "name": "Galaxy Comfort Flipflops",
+      "image": "https://assets.ajio.com/medias/sys_master/root/h1e/hf4/16209596874782/-473Wx593H-460570319-black-MODEL.jpg",
+      "price": "828",
+      "discount": "54",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717864952932",
+      "cate_id": "1716725744572",
+      "name": "Men Logo Print Slides",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230801/9GNF/64c8f436a9b42d15c98007d3/-473Wx593H-466390587-black-MODEL.jpg",
+      "price": "1125",
+      "discount": "55",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717865008689",
+      "cate_id": "1716725744572",
+      "name": "Mid-Rise Shorts with Logo Branding",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210324/vnYx/605a4a66aeb269a9e3258109/-473Wx593H-460855757-blue-MODEL.jpg",
+      "price": "760",
+      "discount": "62",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717865329480",
+      "cate_id": "1716725827640",
+      "name": "Brand Icon Print Crew-Neck T-shirt",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20210804/C0RE/6109c110f997ddce89921408/-473Wx593H-460933896-black-MODEL.jpg",
+      "price": "520",
+      "discount": "60",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717865575748",
+      "cate_id": "1716725827640",
+      "name": "Women Ridease Training Shoes",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240104/sqaa/6596cb55ddf7791519030f50/-473Wx593H-469581600-white-MODEL.jpg",
+      "price": "2339",
+      "discount": "48",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717865703910",
+      "cate_id": "1716725827640",
+      "name": "Core Up Backpack",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240528/gPZY/6655d50116fd2c6e6a31f442/-473Wx593H-469618438-purple-MODEL.jpg",
+      "price": "1749",
+      "discount": "30",
+      "brand": "PUMA"
+    },
+    {
+      "id": "1717865761707",
+      "cate_id": "1716725827640",
+      "name": "Women Logo Print Straight Track Pants",
+      "image": "https://assets.ajio.com/medias/sys_master/root/20240226/7sCN/65dbe75205ac7d77bb7865ff/-473Wx593H-467103467-pink-MODEL.jpg",
+      "price": "1679",
+      "discount": "40",
+      "brand": "PUMA"
+    }
+  ]
+}
